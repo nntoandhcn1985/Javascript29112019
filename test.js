@@ -5,3 +5,4 @@ helloReactNative
 // luu thay doi: git add buoi1.js chi luu tam (cache) trong file .git 
 // neu luu tam tat ca thi dung git add .
 // dua tap tin luu tru vao trong git: git commit -m "ghi chu ten commit vao cai gi"
+// xem lai lich su commit : con goi la git log
